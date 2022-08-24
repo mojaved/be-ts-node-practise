@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "src",
+        "strictNullChecks": true,
+        "strict": true,
+        "lib": [
+            "DOM",
+            "ES2016"
+        ],
+        "experimentalDecorators": true,
+        "target": "ES6"
+    }
+}

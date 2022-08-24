@@ -1,0 +1,33 @@
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+    "username": "user2",
+    "password": "password2"
+}
+
+###
+
+GET http://localhost:8080/users?id=1001
+Authorization: gm4uc2oh24
+###
+
+
+GET http://localhost:8080/users?name=John
+Authorization: dcq9s7afjq5
+###
+
+PUT http://localhost:8080/users
+Content-Type: application/json
+Authorization: yxs4n58ri3d
+
+{
+    "name": "John Cheema 2",
+    "age": 30,
+    "email": "cheema2@gmail.com",
+    "workingPosition": 3
+}
+###
+
+DELETE http://localhost:8080/users?id=l8mleh8ej7
+Authorization: yxs4n58ri3d
