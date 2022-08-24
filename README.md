@@ -19,8 +19,6 @@ npm start
 
 ## Authors
 
-Contributors names and contact info
-
 Muhammad Omer Javed
 
 ## Version History
