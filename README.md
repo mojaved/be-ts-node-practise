@@ -4,8 +4,7 @@
 
 A practise backend API based application using Nodejs and typescript concepts. 
 * No external framework used like express etc.
-* No external npm packages used.
-* Usage of ESlint
+* No external libraries used.
 
 ### Installing
 
