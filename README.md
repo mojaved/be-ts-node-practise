@@ -22,7 +22,7 @@ npm start
 
 Contributors names and contact info
 
-ex. Muhammad Omer Javed
+Muhammad Omer Javed
 
 ## Version History
 
